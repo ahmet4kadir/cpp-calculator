@@ -1,5 +1,3 @@
-A simple C++ Calculator
-
 A simple calculator that takes an input string (e.g. `12+6`, `3*4`, `9/3`) 
 and evaluates the result.
 
